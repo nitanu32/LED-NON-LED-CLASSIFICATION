@@ -1,4 +1,4 @@
-# LED-NON-LED-CLASSIFICATION
+# LED/NON-LED CLASSIFICATION
 
 Project was completed at Redaptive Inc., under the guidance of Chester Hitz. As a Data Science Intern, I:
 - Researched the correlation between various energy consumption indicators (active power, aggregated power factor, mean & median power factor) and LED vs non-LED light circuits through exploratory data analysis
